@@ -1,0 +1,8 @@
+{
+  "realm": "TestRealm",
+  "auth-server-url" : "http://keycloak:8080/auth",
+  "resource" : "kafka",
+  "credentials": {
+    "secret": "kafka-secret"
+  }
+}
