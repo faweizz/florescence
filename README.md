@@ -10,4 +10,4 @@ To setup the ecosystem you have to
 3. start the stack with `docker-compose up`
 4. go to `keycloak:8080`, login with the credentials admin/admin and import the realm under `keycloak-config.json`
 5. update the secret of the users `alice` to `alice-secret` and `bob` to `bob-secret`
-6. import the project unter ./test to IntelliJ and run the tests to see how the framework works
+6. import the project under ./test to IntelliJ and run the tests to see how the framework works
